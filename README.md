@@ -3,6 +3,7 @@
 __Objective__
 
 For this project, we are developing an optimization model that takes all 450 current players in the NBA and builds the best fantasy team possible in order to guarantee success in a fantasy basketball league. This model considers each player’s fantasy score, position, salary, team, and more to find whether or not a respective player is the right fit. Additionally, the model also considers which players are best suited to come off the bench as “backup”, when certain players are injured or are not playing.
+
 __Constraints__
 
 •	The biggest constraint would be the salary cap. A lot of the best players in the league make quite a bit of money, no team can afford 5 max-contract players.
